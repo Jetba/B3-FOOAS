@@ -1,0 +1,5 @@
+<configuration plugin="foaas">
+   <settings name="commands">
+      <set name="foaas">2</set>
+   </settings>
+</configuration>
